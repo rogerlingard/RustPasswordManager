@@ -1,5 +1,7 @@
 ﻿# Overview
 
+Look inside the src file to see the Rust Code.
+
 Why I chose this project was because I decided that I wanted to learn another programming language and better my learning skills. I think that it's very important as a programmer to know how to adapt to languages and know how they work fundamentally. Why I chose Rust was because I had done like a thirty-minute programming demonstration of Rust and I just remember it being a little weird and actually quite impressive. So, I decided to put some effort into learning it because that demonstration was about a year or two ago. 
 
 I decided to do a password manager project was because I think it would be very cool to have my own password manager, and Rust would be a good way to keep information while learning a new language. I also think that if you really value your own online security then you would want to have a password manager that isn't owned by a company that could get hacked. Which is why I did this project, I wanted to be able to have a place that I could store my passwords and have it be secure from hacking attempts (I am less likely to be a target than a big company that stores passwords, probably).
